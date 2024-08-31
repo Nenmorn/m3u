@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Animax3.png" group-title="Infantil",Animax
+https://stream.ichibantv.com:3547/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Animax3.png" group-title="Filmes e Series",Sony Movies
+https://cdn-2.nxplay.com.br/SONY_MOVIES/index.m3u8
