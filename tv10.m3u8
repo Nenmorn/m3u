@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Animax3.png" ,Animax
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.flickr.com/photos/35995495@N07/5263224233" group-title="Todos" ,Animax
 https://stream.ichibantv.com:3547/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/C/Cartoon_Network-logo-52C61AE091-seeklogo.com.png" ,Cartoon Network
+#EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/C/Cartoon_Network-logo-52C61AE091-seeklogo.com.png" group-title="Todos" ,Cartoon Network
 https://abc.embedmax.site/cartoonnetwork/tracks-v1a1/mono.m3u8?sdf
