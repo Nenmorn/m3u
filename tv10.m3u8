@@ -17,3 +17,6 @@ https://new.embedflix.co/p2p/tlcpipoca/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU
 
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Todos" ,Globo SP
 http://bdta.pro/3134767531/5CqmEyGNTt/131212.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-logo="https://cdn.worldvectorlogo.com/logos/hbo-2.svg" group-title="Todos" ,HBO2
+https://new.embedflix.co/p2p/hbo2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zMS8yMDI0IDExOjI2OjIwIFBNJmhhc2hfdmFsdWU9clhZdHpwc1cxZ0crbjNkTFR4MGo1UT09JnZhbGlkbWludXRlcz0xNjA=
