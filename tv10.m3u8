@@ -12,4 +12,7 @@ https://dice-live-us.akamaized.net/hls/live/2005826/229024-276002/exchange229024
 #EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/C/canal-combate-logo-010EBF56D8-seeklogo.com.png" group-title="Todos" ,Combate
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://reidoscanais.eu/embed/player.php?l=aHR0cHM6Ly9qYWx5bnJhYmVpLmNvbS9wbGF5ZXIvZ2xvYm9wZS1nbG9ib25vcmRlc3RlLmh0bWw%3D
+#EXTINF:-1,Globo Nordeste
+https://anonmedia.eu/globope-globonordeste/index.m3u8
