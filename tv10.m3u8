@@ -12,5 +12,8 @@ https://new.embedflix.co/p2p/tlcpipoca/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU
 #EXTINF:-1 tvg-id="GloboSP" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/globosp.jpg" tvg-name="Globo SP" group-title="General",Globo SP
 https://new.embedflix.co/p2p/globorj/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xLzIwMjQgMTI6MDM6MTYgQU0maGFzaF92YWx1ZT1zQy9mcllMVzFRUzBlR2lmU0dBNjdRPT0mdmFsaWRtaW51dGVzPTE2MA==
 
-#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://e1.pngegg.com/pngimages/397/604/png-clipart-tv-channel-icons-hbo-2-black-hbo-2-logo-thumbnail.png" tvg-name="HBO2" group-title="Filmes",HBO2
+#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://i.ibb.co/3m8y6Y8/hbo2.jpg" tvg-name="HBO2" group-title="Filmes",HBO2
 https://new.embedflix.co/p2p/hbo2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zMS8yMDI0IDExOjI2OjIwIFBNJmhhc2hfdmFsdWU9clhZdHpwc1cxZ0crbjNkTFR4MGo1UT09JnZhbGlkbWludXRlcz0xNjA=
+
+#EXTINF:-1 tvg-id="TNTSeries" tvg-logo="https://i.ibb.co/c8kNf4T/tnt-series.jpg" tvg-name="TNT Series" group-title="Séries",TNT Series
+https://new.embedflix.co/p2p/tntseries/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xLzIwMjQgMTo1NDo1MiBBTSZoYXNoX3ZhbHVlPWNnNFhUVFIyc2d5emw2bFRRZkY5aGc9PSZ2YWxpZG1pbnV0ZXM9MTYw
