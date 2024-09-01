@@ -6,7 +6,7 @@ https://stream.ichibantv.com:3547/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork" tvg-logo="https://i.ibb.co/QF38tYs/CN.jpg" tvg-name="Cartoon Network" group-title="Todos",Cartoon Network
 https://new.embedflix.co/p2p/cartoon/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zMS8yMDI0IDU6NTE6NTAgUE0maGFzaF92YWx1ZT14N0IzUmZGektZNTNISmhyU3NVTnhRPT0mdmFsaWRtaW51dGVzPTE2MA==
 
-#EXTINF:-1 tvg-id="TelecinePipoca" tvg-logo="https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-pipoca-252x252.png" tvg-name="Telecine Pipoca" group-title="Filmes",Telecine Pipoca
+#EXTINF:-1 tvg-id="TelecinePipoca" tvg-logo="https://i.ibb.co/hWWz7v2/TC-Pipoca.jpg" tvg-name="Telecine Pipoca" group-title="Filmes",Telecine Pipoca
 https://new.embedflix.co/p2p/tlcpipoca/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zMS8yMDI0IDc6NTY6MDkgUE0maGFzaF92YWx1ZT02bFIyUUdDeVZtOWxjRFFVY2ZZcjRRPT0mdmFsaWRtaW51dGVzPTE2MA==
 
 #EXTINF:-1 tvg-id="GloboSP" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/globosp.jpg" tvg-name="Globo SP" group-title="General",Globo SP
@@ -17,3 +17,6 @@ https://new.embedflix.co/p2p/hbo2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8z
 
 #EXTINF:-1 tvg-id="TNTSeries" tvg-logo="https://i.ibb.co/c8kNf4T/tnt-series.jpg" tvg-name="TNT Series" group-title="Séries",TNT Series
 https://new.embedflix.co/p2p/tntseries/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xLzIwMjQgMTo1NDo1MiBBTSZoYXNoX3ZhbHVlPWNnNFhUVFIyc2d5emw2bFRRZkY5aGc9PSZ2YWxpZG1pbnV0ZXM9MTYw
+
+#EXTINF:-1 tvg-id="TNTSeriesHD" tvg-logo="https://i.ibb.co/c8kNf4T/tnt-series.jpg" tvg-name="TNT Series HD" group-title="Séries",TNT Series HD
+http://bdta.pro/3134767531/5CqmEyGNTt/72383.m3u8
