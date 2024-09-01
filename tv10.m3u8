@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Yk9Nh5D/Animax.jpg" group-title="Todos" ,Animax
 https://stream.ichibantv.com:3547/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/C/Cartoon_Network-logo-52C61AE091-seeklogo.com.png" group-title="Todos" ,Cartoon Network
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QH2wfv1/CN.jpg" group-title="Todos" ,Cartoon Network
 https://new.embedflix.co/p2p/cartoon/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zMS8yMDI0IDU6NTE6NTAgUE0maGFzaF92YWx1ZT14N0IzUmZGektZNTNISmhyU3NVTnhRPT0mdmFsaWRtaW51dGVzPTE2MA==
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/qHj9hpnL0dnqxWOsMzQ8bAQ2RZ540O-esDOeoV4VN1O6gOTuG2Eoo1RBvsb0x-5j9rBj5GMp6Q=s900-c-k-c0x00ffffff-no-rj" group-title="Todos" ,UFCTv
@@ -20,3 +20,65 @@ https://new.embedflix.co/p2p/globorj/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9O
 
 #EXTINF:-1 tvg-id="3" tvg-logo="https://e1.pngegg.com/pngimages/397/604/png-clipart-tv-channel-icons-hbo-2-black-hbo-2-logo-thumbnail.png" group-title="Todos" ,HBO2
 https://new.embedflix.co/p2p/hbo2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zMS8yMDI0IDExOjI2OjIwIFBNJmhhc2hfdmFsdWU9clhZdHpwc1cxZ0crbjNkTFR4MGo1UT09JnZhbGlkbWludXRlcz0xNjA=
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Cultura" group-title="General",Cultura
+http://streaming.url/cultura.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SBT" group-title="General",SBT
+http://streaming.url/sbt.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Globo" group-title="General",TV Globo
+http://streaming.url/tvglobo.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Record" group-title="General",Record
+http://streaming.url/record.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Brasil" group-title="General",TV Brasil
+http://streaming.url/tvbrasil.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="RedeTV!" group-title="General",RedeTV!
+http://streaming.url/redetv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Gazeta" group-title="General",Gazeta
+http://streaming.url/gazeta.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Zapping Mix" group-title="Sports",Zapping Mix
+http://streaming.url/zappingmix.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Band Sports" group-title="Sports",Band Sports
+http://streaming.url/bandsports.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Nosso Futebol" group-title="Sports",Nosso Futebol
+http://streaming.url/nossofutebol.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" group-title="Sports",ESPN
+http://streaming.url/espn.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil" group-title="News",CNN Brasil
+http://streaming.url/cnnbrasil.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Band News" group-title="News",Band News
+http://streaming.url/bandnews.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" group-title="Entertainment",Discovery Channel
+http://streaming.url/discovery.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" group-title="Entertainment",Animal Planet
+http://streaming.url/animalplanet.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Globo News" group-title="News",Globo News
+http://streaming.url/globonews.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" group-title="Entertainment",National Geographic
+http://streaming.url/natgeo.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" group-title="Kids",Disney Channel
+http://streaming.url/disneychannel.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TLC" group-title="Entertainment",TLC
+http://streaming.url/tlc.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="VH1" group-title="Music",VH1
+http://streaming.url/vh1.m3u8
