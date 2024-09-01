@@ -15,7 +15,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 #EXTINF:-1 tvg-id="3" tvg-logo="https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-pipoca-252x252.png" group-title="Todos" ,Telecine Pipoca
 https://new.embedflix.co/p2p/tlcpipoca/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zMS8yMDI0IDc6NTY6MDkgUE0maGFzaF92YWx1ZT02bFIyUUdDeVZtOWxjRFFVY2ZZcjRRPT0mdmFsaWRtaW51dGVzPTE2MA==
 
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Todos" ,Globo SP
+#EXTINF:-1 tvg-id="1" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/globosp.jpg" group-title="Todos" ,Globo SP
 http://bdta.pro/3134767531/5CqmEyGNTt/131212.m3u8
 
 #EXTINF:-1 tvg-id="3" tvg-logo="https://e1.pngegg.com/pngimages/397/604/png-clipart-tv-channel-icons-hbo-2-black-hbo-2-logo-thumbnail.png" group-title="Todos" ,HBO2
