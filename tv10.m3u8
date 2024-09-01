@@ -1,16 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Yk9Nh5D/Animax.jpg" tvg-name="Animax" group-title="Todos" ,Animax
+#EXTINF:-1 tvg-id="Animax" tvg-logo="https://i.ibb.co/17Nrx71/Animax.jpg" tvg-name="Animax" group-title="Todos",Animax
 https://stream.ichibantv.com:3547/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QH2wfv1/CN.jpg" tvg-name="Cartoon Netwrk" group-title="Todos" ,Cartoon Network
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-logo="https://i.ibb.co/QF38tYs/CN.jpg" tvg-name="Cartoon Network" group-title="Todos",Cartoon Network
 https://new.embedflix.co/p2p/cartoon/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zMS8yMDI0IDU6NTE6NTAgUE0maGFzaF92YWx1ZT14N0IzUmZGektZNTNISmhyU3NVTnhRPT0mdmFsaWRtaW51dGVzPTE2MA==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-pipoca-252x252.png" tvg-name="Telecine Pipoca" group-title="Todos" ,Telecine Pipoca
+#EXTINF:-1 tvg-id="TelecinePipoca" tvg-logo="https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-pipoca-252x252.png" tvg-name="Telecine Pipoca" group-title="Filmes",Telecine Pipoca
 https://new.embedflix.co/p2p/tlcpipoca/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zMS8yMDI0IDc6NTY6MDkgUE0maGFzaF92YWx1ZT02bFIyUUdDeVZtOWxjRFFVY2ZZcjRRPT0mdmFsaWRtaW51dGVzPTE2MA==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/globosp.jpg" tvg-name="Globo SP" group-title="Todos" ,Globo SP
+#EXTINF:-1 tvg-id="GloboSP" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/globosp.jpg" tvg-name="Globo SP" group-title="General",Globo SP
 https://new.embedflix.co/p2p/globorj/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xLzIwMjQgMTI6MDM6MTYgQU0maGFzaF92YWx1ZT1zQy9mcllMVzFRUzBlR2lmU0dBNjdRPT0mdmFsaWRtaW51dGVzPTE2MA==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://e1.pngegg.com/pngimages/397/604/png-clipart-tv-channel-icons-hbo-2-black-hbo-2-logo-thumbnail.png" group-title="Todos" ,HBO2
+#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://e1.pngegg.com/pngimages/397/604/png-clipart-tv-channel-icons-hbo-2-black-hbo-2-logo-thumbnail.png" tvg-name="HBO2" group-title="Filmes",HBO2
 https://new.embedflix.co/p2p/hbo2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zMS8yMDI0IDExOjI2OjIwIFBNJmhhc2hfdmFsdWU9clhZdHpwc1cxZ0crbjNkTFR4MGo1UT09JnZhbGlkbWludXRlcz0xNjA=
