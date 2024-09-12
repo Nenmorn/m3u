@@ -36,21 +36,23 @@ http://ratomickey.eu:8080/calu/jasilva/90028
 #EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://srv.mypanel.life:8080/images/331cf3a2e8ec2d5a53da28f2217e8af3.png",AMC SD
 http://ratomickey.eu:8080/calu/jasilva/90029
 
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL FHD H265" tvg-logo="" group-title="Series",UNIVERSAL CHANNEL FHD H265 [P]
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL" tvg-logo="" group-title="Series",UNIVERSAL CHANNEL FHD H265
 http://ratomickey.eu:8080/calu/jasilva/90701
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL FHD" tvg-logo="" group-title="Series",UNIVERSAL CHANNEL FHD [P]
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL" tvg-logo="" group-title="Series",UNIVERSAL CHANNEL FHD
 http://ratomickey.eu:8080/calu/jasilva/90702
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="" group-title="Series",UNIVERSAL CHANNEL HD [P]
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL" tvg-logo="" group-title="Series",UNIVERSAL CHANNEL HD
 http://ratomickey.eu:8080/calu/jasilva/90703
-#EXTINF:-1 tvg-id="" tvg-name="VIVA FHD H265" tvg-logo="" group-title="Novelas",VIVA FHD H265 [P]
+
+#EXTINF:-1 tvg-id="" tvg-name="VIVA" tvg-logo="" group-title="Novelas",VIVA FHD H265
 http://ratomickey.eu:8080/calu/jasilva/90707
-#EXTINF:-1 tvg-id="" tvg-name="VIVA FHD" tvg-logo="" group-title="Novelas",VIVA FHD [P]
+#EXTINF:-1 tvg-id="" tvg-name="VIVA" tvg-logo="" group-title="Novelas",VIVA FHD
 http://ratomickey.eu:8080/calu/jasilva/90708
-#EXTINF:-1 tvg-id="" tvg-name="VIVA HD" tvg-logo="" group-title="Novelas",VIVA HD [P]
+#EXTINF:-1 tvg-id="" tvg-name="VIVA" tvg-logo="" group-title="Novelas",VIVA HD
 http://ratomickey.eu:8080/calu/jasilva/90709
-#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL FHD H265 [P]" tvg-logo="" group-title="Series",WARNER CHANNEL FHD H265 [P]
+
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL FHD H265" tvg-logo="" group-title="Series",WARNER CHANNEL FHD H265
 http://ratomickey.eu:8080/calu/jasilva/90711
-#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL FHD [P]" tvg-logo="" group-title="Series",WARNER CHANNEL FHD [P]
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL FHD" tvg-logo="" group-title="Series",WARNER CHANNEL FHD
 http://ratomickey.eu:8080/calu/jasilva/90712
-#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL HD [P]" tvg-logo="" group-title="Series",WARNER CHANNEL HD [P]
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL HD" tvg-logo="" group-title="Series",WARNER CHANNEL HD
 http://ratomickey.eu:8080/calu/jasilva/90713
