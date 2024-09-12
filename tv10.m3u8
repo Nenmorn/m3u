@@ -22,17 +22,19 @@ https://new.embedflix.co/p2p/hbo2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8z
 #EXTINF:-1 tvg-id="TNTSeriesHD" tvg-logo="https://i.ibb.co/c8kNf4T/tnt-series.jpg" tvg-name="TNT Series HD" group-title="Séries",TNT Series HD
 http://bdta.pro/3134767531/5CqmEyGNTt/72383.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="A&E FHD H265" tvg-logo="http://srv.mypanel.life:8080/images/7bb163f52dc47674d1c023c2c66f3700.png" group-title="Séries",A&E FHD H265 [P]
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="http://srv.mypanel.life:8080/images/7bb163f52dc47674d1c023c2c66f3700.png",A&E HD
+http://ratomickey.eu:8080/calu/jasilva/65448
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="http://srv.mypanel.life:8080/images/7bb163f52dc47674d1c023c2c66f3700.png",A&E FHD
 http://ratomickey.eu:8080/calu/jasilva/90021
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="http://srv.mypanel.life:8080/images/7bb163f52dc47674d1c023c2c66f3700.png",A&E SD
+http://ratomickey.eu:8080/calu/jasilva/90022
 
-#EXTINF:-1 tvg-id="" tvg-name="AMC FHD H265" tvg-logo="http://srv.mypanel.life:8080/images/331cf3a2e8ec2d5a53da28f2217e8af3.png" group-title="Séries",AMC FHD H265 [P]
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://srv.mypanel.life:8080/images/331cf3a2e8ec2d5a53da28f2217e8af3.png",AMC HD
+http://ratomickey.eu:8080/calu/jasilva/90027
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://srv.mypanel.life:8080/images/331cf3a2e8ec2d5a53da28f2217e8af3.png",AMC FHD
 http://ratomickey.eu:8080/calu/jasilva/90028
-
-#EXTINF:-1 tvg-id="" tvg-name="AXN FHD H265" tvg-logo="http://srv.mypanel.life:8080/images/c9077994a9041b2924aa9f0f591aab88.png" group-title="Séries",AXN FHD H265 [P]
-http://ratomickey.eu:8080/calu/jasilva/90043
-
-#EXTINF:-1 tvg-id="" tvg-name="BABYTV FHD" tvg-logo="s:1:/images/PMMm5g39tUUIhYrim0QVe3QQam3ANW07mXl78aAQY9_erfamGSMRW6sZ82_sbEG_UBdTnmV-kI0R4UYU7v5AgIbnA3AOt8E7uJDgSZPNNyM.png",BABYTV FHD [P]
-http://ratomickey.eu:8080/calu/jasilva/90047
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://srv.mypanel.life:8080/images/331cf3a2e8ec2d5a53da28f2217e8af3.png",AMC SD
+http://ratomickey.eu:8080/calu/jasilva/90029
 
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL FHD H265" tvg-logo="" group-title="Series",UNIVERSAL CHANNEL FHD H265 [P]
 http://ratomickey.eu:8080/calu/jasilva/90701
