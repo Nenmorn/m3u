@@ -10,5 +10,24 @@ http://ratomickey.eu:8080/calu/jasilva/90301
 #EXTINF:-1 tvg-id="record" tvg-name="Record" group-title="Abertos" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/recordtv.jpg", Record
 http://ratomickey.eu:8080/calu/jasilva/90499
 
-#EXTINF:-1 tvg-id="Animax" tvg-logo="https://i.ibb.co/17Nrx71/Animax.jpg" tvg-name="Animax" group-title="Todos",Animax
+# Grupo: Infantil
+#EXTINF:-1 tvg-id="gloob" tvg-name="Gloob" group-title="Infantil" tvg-logo="http://link-da-imagem/gloob.png", Gloob
+http://ratomickey.eu:8080/calu/jasilva/90334
+#EXTINF:-1 tvg-id="gloobinho" tvg-name="Gloobinho" group-title="Infantil" tvg-logo="http://link-da-imagem/gloobinho.png", Gloobinho
+http://ratomickey.eu:8080/calu/jasilva/90338
+#EXTINF:-1 tvg-id="disneychannel" tvg-name="Disney Channel" group-title="Infantil" tvg-logo="http://link-da-imagem/disneychannel.png", Disney Channel
+http://ratomickey.eu:8080/calu/jasilva/90205
+#EXTINF:-1 tvg-id="disneyjunior" tvg-name="Disney Junior" group-title="Infantil" tvg-logo="http://link-da-imagem/disneychannel.png", Disney Junior
+http://link-de-streaming/disneychannel
+#EXTINF:-1 tvg-id="discoverykids" tvg-name="Discovery Kids" group-title="Infantil" tvg-logo="http://link-da-imagem/discoverykids.png", Discovery Kids
+http://ccdnblck.xyz:80/Cosme0261/7183200261/227
+#EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="Cartoon Network" group-title="Infantil" tvg-logo="http://link-da-imagem/discoverykids.png", Cartoon Network
+http://ratomickey.eu:8080/calu/jasilva/90130
+#EXTINF:-1 tvg-id="cartoonito" tvg-name="Cartoonito" group-title="Infantil" tvg-logo="http://link-da-imagem/discoverykids.png", Cartoonito
+http://link-de-streaming/Cartoonito
+#EXTINF:-1 tvg-id="nick" tvg-name="Nickelodeon" group-title="Infantil" tvg-logo="http://link-da-imagem/discoverykids.png", Nickelodeon
+http://ratomickey.eu:8080/calu/jasilva/90451
+#EXTINF:-1 tvg-id="nickjunior" tvg-name="Nick Junior" group-title="Infantil" tvg-logo="http://link-da-imagem/discoverykids.png", Nick Junior
+http://link-de-streaming/Nick_Junior
+#EXTINF:-1 tvg-id="Animax" tvg-logo="https://i.ibb.co/17Nrx71/Animax.jpg" tvg-name="Animax" group-title="Infantil", Animax
 https://stream.ichibantv.com:3547/hybrid/play.m3u8
