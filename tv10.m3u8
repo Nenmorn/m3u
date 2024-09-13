@@ -2,12 +2,9 @@
 
 #EXTINF:-1 tvg-id="Animax" tvg-logo="https://i.ibb.co/17Nrx71/Animax.jpg" tvg-name="Animax" group-title="Todos",Animax
 https://stream.ichibantv.com:3547/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK FHD H265" tvg-logo="http://srv.mypanel.life:8080/images/91f5738a827405b0f0bd80af1b7e386c.png" group-title="Infantil",CARTOON NETWORK FHD H265 [P]
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK FHD H265" tvg-logo="http://srv.mypanel.life:8080/images/91f5738a827405b0f0bd80af1b7e386c.png" group-title="Infantil",CARTOON NETWORK FHD H265
 http://ratomickey.eu:8080/calu/jasilva/90130
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK FHD" tvg-logo="http://srv.mypanel.life:8080/images/ef8b5f437c2e72b5c7295e53d2cfa088.png" group-title="Infantil",CARTOON NETWORK FHD [P]
 http://ratomickey.eu:8080/calu/jasilva/90131
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK HD" tvg-logo="http://srv.mypanel.life:8080/images/91f5738a827405b0f0bd80af1b7e386c.png" group-title="Infantil",CARTOON NETWORK HD [P]
 http://ratomickey.eu:8080/calu/jasilva/90132
 
 #EXTINF:-1 tvg-id="TelecinePipoca" tvg-logo="https://i.ibb.co/hWWz7v2/TC-Pipoca.jpg" tvg-name="Telecine Pipoca" group-title="Filmes",Telecine Pipoca
