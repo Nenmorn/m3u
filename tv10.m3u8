@@ -31,3 +31,8 @@ http://ratomickey.eu:8080/calu/jasilva/90451
 http://link-de-streaming/Nick_Junior
 #EXTINF:-1 tvg-id="Animax" tvg-logo="https://i.ibb.co/17Nrx71/Animax.jpg" tvg-name="Animax" group-title="Infantil", Animax
 https://stream.ichibantv.com:3547/hybrid/play.m3u8
+
+
+# Grupo: Esportes
+#EXTINF:-1 tvg-id="sporttv" tvg-name="Sport TV" group-title="Esportes" tvg-logo="", Sport Tv
+http://oldraindays.net/live/477597441/X542X5017h/284576.m3u8
