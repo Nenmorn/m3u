@@ -33,9 +33,9 @@ http://link-de-streaming/Nick_Junior
 https://stream.ichibantv.com:3547/hybrid/play.m3u8
 
 # Grupo: Esportes
-#EXTINF:-1 tvg-id="sporttv" tvg-name="Sport TV 4K" group-title="Esportes" tvg-logo="", Sport Tv
+#EXTINF:-1 tvg-id="sporttv" tvg-name="Sport TV 4K" group-title="Esportes" tvg-logo="", Sport TV 4K
 http://oldraindays.net/live/477597441/X542X5017h/284576.m3u8
 
 # Grupo: Series
-#EXTINF:-1 tvg-id="tnt" tvg-name="TNT FHD" group-title="Series" tvg-logo="", TNt
+#EXTINF:-1 tvg-id="tnt" tvg-name="TNT FHD" group-title="Series" tvg-logo="", TNT FHD
 http://xcvtal.com:80/live/477597441/X542X5017h/733.m3u8
