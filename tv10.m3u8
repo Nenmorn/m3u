@@ -1,6 +1,4 @@
 #EXTM3U
-
-
 #EXTINF:-1 tvg-id="Cindie" tvg-name="Cindie" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/42ad5ffc09cbd3ffd6139d6fcfa234f6.webp" group-title="Filmes",Cindie
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352/variant/22099961.m3u8
 #EXTINF:-1 tvg-id="HBO SD" tvg-name="BR: HBO FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="Filmes", HBO FHD
